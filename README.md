@@ -63,6 +63,16 @@ This is a simple PHP web application demonstrating CRUD (Create, Read, Update, D
     Click the "Delete" button next to the record you want to delete.
     Confirm the deletion in the prompt.
 
+## Contact
+
+Feel free to reach out with any questions or suggestions:
+
+- **Email**: mayurmore6468@gmail.com
+- **GitHub**: [mayurmore6468](https://github.com/mayurmore6468)
+
+Thank you for checking out the web app!
+
+
 ## Note :
 'phpcrud' file that has been exported is kept in databse folder of this same directory.
 
